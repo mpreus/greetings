@@ -7,19 +7,22 @@ html, body {
 	padding: 0;
 }
 
-.output {
-	font-size: 1.6rem;
-	height: 100px;
-	text-align: center;
+h1 {
+	font-size: 1.8rem;
+	padding-bottom: 1rem;
 }
 
 .wraper {
 	font-size: 1rem;
+	margin: 2rem auto;
+	max-width: 20rem;
 	text-align: center;
 	text-transform: uppercase;
 }
 
 input {
+	border: .05rem solid #222;
+	border-radius: .25rem;
 	font-size: 1rem;
 	padding: .25rem;
 	width: 12rem;
@@ -27,7 +30,6 @@ input {
 
 button {
 	background: #222;
-	border: 0.05rem;
 	border-radius: .25rem;
 	color: #eee;
 	font-size: .9rem;
