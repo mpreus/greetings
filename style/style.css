@@ -8,11 +8,31 @@ html, body {
 }
 
 .output {
+	font-size: 1.6rem;
 	height: 100px;
 	text-align: center;
 }
 
 .wraper {
+	font-size: 1rem;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+input {
+	font-size: 1rem;
+	padding: .25rem;
+	width: 12rem;
+}
+
+button {
+	background: #222;
+	border: 0.05rem;
+	border-radius: .25rem;
+	color: #eee;
+	font-size: .9rem;
+	height: 1.6rem;
+	margin: .8rem auto;
+	text-align: center;
+	width: 6rem;
 }
