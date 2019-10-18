@@ -1,0 +1,18 @@
+html, body {
+	background: #ededed;
+	box-sizing: border-box;
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+}
+
+.output {
+	height: 100px;
+	text-align: center;
+}
+
+.wraper {
+	text-align: center;
+	text-transform: uppercase;
+}
