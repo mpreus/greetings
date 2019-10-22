@@ -14,7 +14,7 @@ h1 {
 
 .wraper {
 	border: .05rem solid #666;
-	border-radius: .3rem;
+	border-radius: .3rem; box-shadow: .05rem .05rem .05rem grey;
 	font-size: 1rem;
 	margin: 2rem auto;
 	max-height: 40rem;
@@ -36,6 +36,7 @@ button {
 	background: #222;
 	border-radius: .25rem;
 	color: #eee;
+	font-family: 'Roboto Slab', serif;
 	font-size: .9rem;
 	height: 1.6rem;
 	margin: .8rem auto;
