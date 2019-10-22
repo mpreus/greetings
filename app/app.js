@@ -20,7 +20,7 @@ function init() {
 			para = document.querySelector("p");
 
 		let currentTime = date.getHours(); 
-		currentTime = 7;
+		
 		if (currentTime > 6 && currentTime < 13) {
 			wraper.style.backgroundColor = "#f2ffff";
 			output.style.color = "#000000";
